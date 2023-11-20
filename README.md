@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Luka Kheladze</h1>
 <h3 align="center">Software Engineer from Georgia</h3>
 
-<img align="left" alt="Coding" width="300" src= "https://i.pinimg.com/originals/16/fe/7e/16fe7e7fb6eebb3087b6dc418748ee56.gif"/>
+<img align="right" alt="Coding" width="200" src= "https://i.pinimg.com/originals/16/fe/7e/16fe7e7fb6eebb3087b6dc418748ee56.gif"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=m0h1k4&label=Profile%20views&color=0e75b6&style=flat" alt="m0h1k4" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=m0h1k4" alt="m0h1k4" /></a> </p>
