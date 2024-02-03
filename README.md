@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/M0H1K4](https://github.com/M0H1K4)
 
-- 💬 Ask me about **React.js, Next.js**
+- 💬 Ask me about **React.js, Node.js**
 
 - 📫 How to reach me **nejer911@gmail.com**
 
