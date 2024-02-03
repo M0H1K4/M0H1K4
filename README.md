@@ -6,13 +6,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=m0h1k4" alt="m0h1k4" /></a> </p>
 
-- 🌱 I’m currently learning **Node.js**
+ 🌱 I’m currently learning **Node.js**
 
-- 👨‍💻 All of my projects are available at [https://github.com/M0H1K4](https://github.com/M0H1K4)
+ 👨‍💻 All of my projects are available at [https://github.com/M0H1K4](https://github.com/M0H1K4)
+ 
+ 💬 Ask me about **React.js, Node.js**
 
-- 💬 Ask me about **React.js, Node.js**
-
-- 📫 How to reach me **nejer911@gmail.com**
+ 📫 How to reach me **nejer911@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
